@@ -1,0 +1,9 @@
+* { box-sizing: border-box; }
+body { margin: 0; font-family: Arial, Helvetica, sans-serif; color: #f8fafc; background: #101827; }
+.container { max-width: 850px; margin: 12vh auto; padding: 24px; }
+.eyebrow { letter-spacing: .2em; font-size: 12px; color: #f9a8d4; }
+h1 { font-size: clamp(34px, 6vw, 64px); line-height: 1.1; margin: 24px 0; }
+p { color: #cbd5e1; line-height: 1.7; }
+.panel { margin-top: 42px; padding: 28px; border: 1px solid #334155; border-radius: 18px; background: #1e293b; }
+button { border: 0; border-radius: 10px; background: #f43f5e; color: white; font-weight: bold; padding: 13px 22px; cursor: pointer; }
+button:hover { background: #e11d48; }
